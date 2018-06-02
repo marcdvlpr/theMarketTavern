@@ -80,3 +80,8 @@
 <div>
   <img src="https://user-images.githubusercontent.com/25856076/92207920-683dce80-ee8a-11ea-91a2-d0ac79ca552d.gif" alt="Architecture Blog" />
 </div>
+<br/>
+
+## License
+
+This project is licensed under the [MIT license](LICENSE).
